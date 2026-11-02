@@ -10,7 +10,7 @@ Claude Code pulls your matches from [DreamWork](https://www.dreamworkhq.com/), s
 
 ## Install
 ```bash
-git clone https://github.com/<owner>/job-apply-skill.git
+git clone https://github.com/mitzcore/job-apply-skill.git
 cd job-apply-skill
 cp -r skill/apply-jobs ~/.claude/skills/
 cp -r job-hunt ~/job-hunt
