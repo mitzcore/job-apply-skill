@@ -1,0 +1,29 @@
+{
+  "slug": "EXAMPLE_Acme_Senior_Platform_Engineer",
+  "co": "Acme",
+  "title": "Senior Platform Engineer",
+  "url": "https://job-boards.greenhouse.io/embed/job_app?for=acme&token=1234567",
+  "plat": "greenhouse",
+  "pay": "$170k-$220k",
+  "loc": "New York, NY (hybrid)",
+  "h1b": "n/a",
+  "jd_focus": "Platform as product: self-service paved paths, automation, policy-as-code, SLOs, replacing toil",
+  "headline": "Senior Platform Engineer · Kubernetes & Developer Platforms",
+  "tagline": "Self-service paved paths · Kubernetes automation · Policy-as-code · SLO-driven reliability",
+  "summary": "Platform engineer who runs the internal platform as a product with users, SLOs and a roadmap. <Your hard numbers here.> <One line of point of view.>",
+  "pillars": ["k8s", "cicd", "dev", "iac", "sec", "obs", "cost", "lead", "llm", "data"],
+  "pillar_text": {
+    "k8s": "<Proof line reworded in the job's vocabulary, under ~150 chars, true facts only.>",
+    "cicd": "<Proof line reworded for this job.>"
+  },
+  "current_lead": "<Current role, angled toward this job.>",
+  "current_bullets": [
+    "<Bullet 1 angled to the job, ~110 chars.>",
+    "<Bullet 2.>",
+    "<Bullet 3.>"
+  ],
+  "skills": "Kubernetes · Terraform · ArgoCD · GitHub Actions · Python · Prometheus · Grafana",
+  "cover_hook": "Your Platform team treats internal infrastructure as a product with users and paved paths. That is exactly how I work.",
+  "why": "<3-4 sentences on why this company, tied to a real piece of your work.>",
+  "extra": [["on-call", "Yes, comfortable with a shared on-call rotation."]]
+}

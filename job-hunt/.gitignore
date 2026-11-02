@@ -1,0 +1,6 @@
+data/*
+!data/.gitkeep
+out/
+fill_now.js
+__pycache__/
+.DS_Store
